@@ -1,0 +1,12 @@
+{
+"Title":"The submit button does not work.",
+"How to reproduce the bug":[
+"1. Open site *.",
+"2. Click on the link *.",
+"3. Scroll to the field *.",
+"4. Enter a value in the * field.",
+"5. Try to click the send order button."
+],
+"Actual result":"The button is disabled.",
+"Expected result":"The button is pressed, you can place an order."
+}
